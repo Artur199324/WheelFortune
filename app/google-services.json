@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1054161509560",
+    "project_id": "wheel-fortune-2836d",
+    "storage_bucket": "wheel-fortune-2836d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054161509560:android:5eb6ce0a42d9edc4e6684d",
+        "android_client_info": {
+          "package_name": "com.sega.sprin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054161509560-7ubct2nn9aetu8ifj1mi0dg8lm5h8bnt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOBSZWiKrL6tCbNck6wkSaUdvIJpvUXOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054161509560-7ubct2nn9aetu8ifj1mi0dg8lm5h8bnt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
